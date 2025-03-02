@@ -1,0 +1,4 @@
+Паттерны LInkedList:
+dummyNode
+fast/slow pointer
+reverse
